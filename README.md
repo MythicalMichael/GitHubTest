@@ -3,3 +3,7 @@
 
 -hello
 
+```
+npm install
+
+```
